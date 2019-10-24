@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/modsy-api/precache-manifest.10580b9e0b928dff51088dfec972cac1.js"
+  "/modsy-api/precache-manifest.e432f7372011e17c190ca83d75006b25.js"
 );
 
 self.addEventListener('message', (event) => {

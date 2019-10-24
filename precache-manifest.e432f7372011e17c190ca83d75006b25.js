@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57efdc06da591f47406a3ada5958e19b",
+    "revision": "514cf7e43b4382105d0d94fe576cd6dc",
     "url": "/modsy-api/index.html"
   },
   {
-    "revision": "be5bcbbdb6db3ffe72fb",
-    "url": "/modsy-api/static/css/main.eee4566c.chunk.css"
+    "revision": "d2d40f47e98ffd1c8833",
+    "url": "/modsy-api/static/css/main.2189ec3a.chunk.css"
   },
   {
     "revision": "fa29a994c0c2716426b3",
     "url": "/modsy-api/static/js/2.a6841ff0.chunk.js"
   },
   {
-    "revision": "be5bcbbdb6db3ffe72fb",
-    "url": "/modsy-api/static/js/main.7bb77cfc.chunk.js"
+    "revision": "d2d40f47e98ffd1c8833",
+    "url": "/modsy-api/static/js/main.1b09df65.chunk.js"
   },
   {
     "revision": "3100ea9f100e0e7d70fc",
