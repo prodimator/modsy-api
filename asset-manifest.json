@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/modsy-api/static/css/main.eee4566c.chunk.css",
+    "main.js": "/modsy-api/static/js/main.7bb77cfc.chunk.js",
+    "main.js.map": "/modsy-api/static/js/main.7bb77cfc.chunk.js.map",
+    "runtime-main.js": "/modsy-api/static/js/runtime-main.79021588.js",
+    "runtime-main.js.map": "/modsy-api/static/js/runtime-main.79021588.js.map",
+    "static/js/2.a6841ff0.chunk.js": "/modsy-api/static/js/2.a6841ff0.chunk.js",
+    "static/js/2.a6841ff0.chunk.js.map": "/modsy-api/static/js/2.a6841ff0.chunk.js.map",
+    "index.html": "/modsy-api/index.html",
+    "precache-manifest.10580b9e0b928dff51088dfec972cac1.js": "/modsy-api/precache-manifest.10580b9e0b928dff51088dfec972cac1.js",
+    "service-worker.js": "/modsy-api/service-worker.js",
+    "static/css/main.eee4566c.chunk.css.map": "/modsy-api/static/css/main.eee4566c.chunk.css.map",
+    "static/media/left-chevron.1d79418f.svg": "/modsy-api/static/media/left-chevron.1d79418f.svg",
+    "static/media/question.0a607ec2.svg": "/modsy-api/static/media/question.0a607ec2.svg",
+    "static/media/right-chevron.c46d3e94.svg": "/modsy-api/static/media/right-chevron.c46d3e94.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79021588.js",
+    "static/js/2.a6841ff0.chunk.js",
+    "static/css/main.eee4566c.chunk.css",
+    "static/js/main.7bb77cfc.chunk.js"
+  ]
+}
