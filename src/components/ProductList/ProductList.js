@@ -54,9 +54,17 @@ export default class ProductList extends Component {
         }
         else {
             // if we have the data loaded, show the products
+
+            //this is calculations to show which items are being shown in the header
+            let first = (this.state.showLimit * this.state.page) - (this.state.showLimit - 1);
+            let last = this.state.showLimit * this.state.page;
+            let total = this.state.productData.length;
             return (
                 <div className="product-container">
-                    <h1>Product List</h1>
+                    <div className="header">
+                        <h1>Product List</h1>
+                        <h4>Showing items: {first}-{last} out of {total}</h4>
+                    </div>
 
                     {/* map through each product and render a product item element */}
                     {this.state.productData.map((product, index) => {

@@ -1,4 +1,4 @@
-h1, h2{
+h1, h2, h4{
     font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -10,6 +10,12 @@ h1, h2{
     padding: 10px;
     margin: 10px;
     border-radius: 3px;
+
+    .header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 
     .product-item{
         background: #fcfcfc;
@@ -26,7 +32,6 @@ h1, h2{
 
         .product-image{
             max-width: 200px;
-            max-height: 200px;
             width: 100%;
             height: 100%;
 
